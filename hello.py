@@ -1,1 +1,1 @@
-print("Hello poll scm")
+print("Hello trigger")
