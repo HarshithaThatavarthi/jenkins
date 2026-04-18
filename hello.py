@@ -1,4 +1,4 @@
-yprint("Hello change")
+print("Hello change")
 print("Get trigger")
 print("tag")
 print("tag automate")
