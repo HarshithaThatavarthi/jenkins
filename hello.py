@@ -1,2 +1,2 @@
 print("Hello change")
-print("Gettrigger")
+print("Get trigger")
